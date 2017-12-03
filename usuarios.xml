@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<usuarios>
+    <usuario id="1">
+        <nombre>Fernando</nombre>
+        <apellido1>Muñoz</apellido1>
+        <apellido2>Paredes</apellido2>
+        <rol>Administrador</rol>
+        <login>fernando</login>
+        <password>cebdd715d4ecaafee8f147c2e85e0754</password><!--fernando cebdd715d4ecaafee8f147c2e85e0754-->
+    </usuario>
+    <usuario id="2">
+        <nombre>Javier</nombre>
+        <apellido1>Gonzalez</apellido1>
+        <apellido2>Garcia</apellido2>
+        <rol>Usuario</rol>-->
+        <login>javier</login>
+        <password>d8578edf8458ce06fbc5bb76a58c5ca4</password><!--qwerty d8578edf8458ce06fbc5bb76a58c5ca4-->
+    </usuario>
+    <usuario id="3">
+        <nombre>Sara</nombre>
+        <apellido1>Rey</apellido1>
+        <apellido2>Pajares</apellido2>
+        <rol>Usuario</rol>-->
+        <login>sara</login>
+        <password>1a1dc91c907325c69271ddf0c944bc72</password><!--pass 1a1dc91c907325c69271ddf0c944bc72-->
+    </usuario>
+    <usuario id="4">
+        <nombre>Ines</nombre>
+        <apellido1>Pinacho</apellido1>
+        <apellido2>Meneses</apellido2>
+        <rol>Usuario</rol>
+        <login>ines</login>
+        <password>5f4dcc3b5aa765d61d8327deb882cf99</password><!--password 5f4dcc3b5aa765d61d8327deb882cf99-->
+    </usuario>
+</usuarios>
